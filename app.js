@@ -1,4 +1,4 @@
-import 'src/routes.js';
+import 'routes.js';
 import 'src/lib/material-bottom-sheet.js';
 import {isIOS, isOffline} from 'src/lib/utils.js';
 
