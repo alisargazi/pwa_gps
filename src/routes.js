@@ -1,7 +1,7 @@
-import {router} from './lib/router.js';
+import {router} from 'lib/router.js';
 import {handleOffline, handleOnline} from '../app.js';
-import '@dannymoerkerke/material-webcomponents/src/material-dialog.js';
-import {template as sensorSheetTemplate} from './templates/sensor-sheet.js';
+import 'lib/material-dialog.js';
+import {template as sensorSheetTemplate} from 'templates/sensor-sheet.js';
 
 const contactApi = 'https://6srbe7uzgd.execute-api.us-east-1.amazonaws.com/production/contact';
 
