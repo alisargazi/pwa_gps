@@ -1,7 +1,7 @@
-import {router} from './lib/router.js';
-import {handleOffline, handleOnline} from '../app.js';
-import '@dannymoerkerke/material-webcomponents/src/material-dialog.js';
-import {template as sensorSheetTemplate} from './templates/sensor-sheet.js';
+import {router} from 'router.js';
+import {handleOffline, handleOnline} from 'app.js';
+import 'src/material-dialog.js';
+import {template as sensorSheetTemplate} from 'src/templates/sensor-sheet.js';
 
 const contactApi = 'https://6srbe7uzgd.execute-api.us-east-1.amazonaws.com/production/contact';
 
@@ -17,7 +17,7 @@ const nav = null;
 const routes = [
   {
     url: '/',
-    template: () => import('./templates/home.js'),
+    template: () => import('src/templates/home.js'),
     controller() {
       const installButton = document.querySelector('#install-button');
       const installSheet = document.querySelector('#install-sheet');
