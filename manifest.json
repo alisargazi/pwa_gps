@@ -48,43 +48,43 @@
   ],
   "screenshots": [
     {
-      "src": "/src/img/shot1.png",
+      "src": "src/img/shot1.png",
       "sizes": "400x822",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/src/img/shot2.png",
+      "src": "src/img/shot2.png",
       "sizes": "400x822",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/src/img/shot3.png",
+      "src": "src/img/shot3.png",
       "sizes": "400x822",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/src/img/shot4.png",
+      "src": "src/img/shot4.png",
       "sizes": "400x822",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/src/img/shot6.png",
+      "src": "src/img/shot6.png",
       "sizes": "400x822",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/src/img/shot7.png",
+      "src": "src/img/shot7.png",
       "sizes": "1280x676",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/src/img/shot8.png",
+      "src": "src/img/shot8.png",
       "sizes": "1280x676",
       "type": "image/png",
       "form_factor": "wide"
@@ -98,7 +98,7 @@
       "url": "/media",
       "icons": [
         {
-          "src": "/src/img/mediacapture-192x192.png",
+          "src": "src/img/mediacapture-192x192.png",
           "sizes": "192x192"
         }
       ]
@@ -110,7 +110,7 @@
       "url": "/geolocation",
       "icons": [
         {
-          "src": "/src/img/geolocation-192x192.png",
+          "src": "src/img/geolocation-192x192.png",
           "sizes": "192x192"
         }
       ]
@@ -122,7 +122,7 @@
       "url": "/authentication",
       "icons": [
         {
-          "src": "/src/img/authentication-192x192.png",
+          "src": "src/img/authentication-192x192.png",
           "sizes": "192x192"
         }
       ]
@@ -134,7 +134,7 @@
       "url": "/info",
       "icons": [
         {
-          "src": "/src/img/info-192x192.png",
+          "src": "src/img/info-192x192.png",
           "sizes": "192x192"
         }
       ]
