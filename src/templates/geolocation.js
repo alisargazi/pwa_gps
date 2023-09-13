@@ -1,6 +1,6 @@
-import /*'@dannymoerkerke/material-webcomponents/src/material-app-bar.js'*/'blob:https://whatpwacando.today/3aab87e7-b76c-497a-8dd0-f6a139b40b14';
-import /*'@dannymoerkerke/material-webcomponents/src/material-button.js'*/'blob:https://whatpwacando.today/9d347b4a-63d0-4fca-a057-7e363909a51b';
-import /*'../elements/google-map.js'*/'blob:https://whatpwacando.today/594b2a06-3003-4ac6-bb23-11b690014778';
+import 'material-app-bar.js';
+import 'material-button.js';
+import '../elements/google-map.js';
 
 const supported = 'geolocation' in navigator;
 
@@ -33,7 +33,7 @@ export const template = `
     
     <h3>Demo</h3>
     
-    <google-map api-key="AIzaSyCMUcOHbCnwHLo9KpKcvXjjNutAfm1wB3g"></google-map>
+    <google-map api-key=""></google-map>
     
     <section class="documentation">
     
