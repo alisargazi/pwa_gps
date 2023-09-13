@@ -33,7 +33,7 @@ export const template = `
     
     <h3>Demo</h3>
     
-    <google-map api-key=""></google-map>
+    <google-map api-key="AIzaSyCMUcOHbCnwHLo9KpKcvXjjNutAfm1wB3g"></google-map>
     
     <section class="documentation">
     
